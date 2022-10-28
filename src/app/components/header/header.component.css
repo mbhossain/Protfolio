@@ -1,0 +1,16 @@
+.top-space {
+    margin-top: 20px;
+}
+
+.button-size {
+    width: 35px;
+    height: 35px;
+}
+
+.vertical-line {
+    border-left: 2px solid black;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-top: 425px;
+}
