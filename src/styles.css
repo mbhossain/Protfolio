@@ -42,3 +42,7 @@ h1 {
     cursor: pointer;
     padding: .1em .3em;
 }
+
+.top-space {
+    margin-top: 25px;
+}

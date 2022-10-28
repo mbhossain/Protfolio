@@ -1,22 +1,76 @@
-.fa {
-    margin: 0px 5px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-}
-
-.fa-linkedin {
-    margin: 0px 0px;
-}
-
-.left-portion {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 h1 {
     color: #417447;
+}
+
+.hero {
+    background: url(../../../assets/img/mbhossain.jpg) center no-repeat;
+    height: 100%;
+    width: 100%;
+    display: table;
+    position: relative;
+    background-size: cover;
+}
+
+.background-overlay:before {
+    content: '';
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+.hero-content {
+    color: #ffffff;
+    display: table-cell;
+    vertical-align: middle;
+    position: relative;
+}
+
+.hero-content h1 {
+    width: 100%;
+    padding: 0 15px;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+.hero-content p {
+    padding: 0 10px;
+    margin: 10px auto 0;
+    text-align: center;
+    /* text-transform: uppercase; */
+}
+
+.hero-content .hero-job {
+    font-size: 18px;
+}
+
+.hero-content .hero-job span {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ffffff;
+}
+
+.hero-content .hero-job-desc {
+    font-size: 14px;
+    max-width: 700px;
+}
+
+.hero-arrow {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 30px;
+    width: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hero-arrow a {
+    font-size: 28px;
+    color: #ffffff;
 }
