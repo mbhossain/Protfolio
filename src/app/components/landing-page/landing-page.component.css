@@ -1,5 +1,5 @@
 h1 {
-    color: #417447;
+    color: #3c9b47;
 }
 
 .hero {
@@ -32,7 +32,7 @@ h1 {
 .hero-content h1 {
     width: 100%;
     padding: 0 15px;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: 700;
     text-align: center;
     margin: 0 auto;
