@@ -9,8 +9,8 @@
 
 .vertical-line {
     border-left: 2px solid black;
-    height: 200px;
+    height: 250px;
     position: absolute;
     left: 50%;
-    margin-top: 425px;
+    margin-top: 10px;
 }
