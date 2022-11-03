@@ -41,6 +41,7 @@ h1 {
     margin: 0;
     cursor: pointer;
     padding: .1em .3em;
+    border-radius: .25rem;
 }
 
 .top-space {
