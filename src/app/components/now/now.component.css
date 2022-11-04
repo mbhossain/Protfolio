@@ -297,6 +297,7 @@ body {
 .header h2 {
     font-weight: normal;
     font-size: 0.875rem;
+    color: #ffffff;
 }
 
 @media screen and (min-width: 750px) {
