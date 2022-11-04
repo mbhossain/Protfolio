@@ -68,3 +68,9 @@ body {
         text-align: center;
     }
 }
+
+.footer {
+    font-size: 15px !important;
+    color: #757575 !important;
+    font-family: 'Comfortaa', cursive;
+}
