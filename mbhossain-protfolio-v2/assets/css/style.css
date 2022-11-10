@@ -516,6 +516,11 @@ body {
   color: #ffffff;
 }
 
+.designation-position {
+  margin-top: 200px !important;
+  margin-left: 800px !important;
+}
+
 @-webkit-keyframes home-arrow-down {
   from {
     transform: translate3d(0, 0px, 0);
