@@ -1,5 +1,5 @@
 h1 {
-    color: #3c9b47;
+    color: #19769b;
 }
 
 .hero {
@@ -141,4 +141,9 @@ h1 {
     left: 0;
     top: 0;
     border-radius: 10px;
+}
+
+.designation-position {
+    margin-top: 200px !important;
+    margin-left: 800px !important;
 }
